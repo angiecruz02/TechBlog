@@ -1,0 +1,22 @@
+[
+    {
+        "blog_id": "1",
+        "content": "Great article! I'm fascinated by the potential of AI in healthcare.",
+        "user_id": "1"
+    },
+    {
+        "blog_id": "3",
+        "content": "I found your JavaScript framework comparison very helpful. It made my decision easier.",
+        "user_id": "1"
+    },
+    {
+        "blog_id": "2",
+        "content": "The future of quantum computing is indeed exciting. Thanks for the insights!",
+        "user_id": "3"
+    },
+    {
+        "blog_id": "2",
+        "content": "Quantum computing's potential to solve complex problems is mind-blowing.",
+        "user_id": "3"
+    }
+]

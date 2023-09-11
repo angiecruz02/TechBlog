@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Machine Learning Algorithms",
+        "content": "In this article, we delve into various machine learning algorithms and their applications.",
+        "user_id": 1
+    },
+    {
+        "title": "Web Development Trends 2023",
+        "content": "Explore the latest trends in web development for 2023, from serverless computing to PWAs.",
+        "user_id": 2
+    },
+    {
+        "title": "Cybersecurity Best Practices",
+        "content": "Learn essential cybersecurity best practices to protect your online presence from threats.",
+        "user_id": 3
+    },
+    {
+        "title": "Artificial Intelligence in Healthcare",
+        "content": "Discover how AI is revolutionizing the healthcare industry, from diagnostics to patient care.",
+        "user_id": 1
+    },
+    {
+        "title": "The Future of Quantum Computing",
+        "content": "Learn about the potential of quantum computing and its implications for the tech world.",
+        "user_id": 2
+    }
+]
